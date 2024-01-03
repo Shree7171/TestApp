@@ -259,7 +259,8 @@
                                 app:layout_constraintEnd_toEndOf="parent"
                                 app:layout_constraintStart_toStartOf="parent"
                                 app:layout_constraintTop_toTopOf="parent"
-                                app:srcCompat="@drawable/circle_green" />
+                                app:srcCompat="@drawable/circle_green"
+                                tools:ignore="DuplicateIds" />
 
                             <ImageView
                                 android:id="@+id/imageView9"

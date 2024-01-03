@@ -73,7 +73,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
-                android:text="forgetten password?"
+                android:text="forgot password?"
                 android:textAlignment="center"
                 android:textColor="#4d4d4d"
                 android:textSize="16sp" />
