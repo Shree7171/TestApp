@@ -7,9 +7,9 @@ import android.widget.Button;
 public class Second extends Activity {
     Button button;
     @Override
-    public void onCreate(Bundle savedInstnceState) {
+    public void onCreate(Bundle savedInstanceState) {
 
-        super.onCreate(savedInstnceState);
+        super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
 }
